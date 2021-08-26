@@ -1,0 +1,170 @@
+body
+{
+    color:#40514E;
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+
+}
+h1
+{
+    
+    font-size:5.625em;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+    font-size: 40px;
+    
+
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+    
+
+}
+    
+#block
+{
+
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top:100px ;
+    
+    
+}
+#TOP
+{
+    background-color:blue ;
+    height: 200px;
+    width:200px;
+    
+}
+.middle-container
+{
+    margin:100px 0;
+    
+    
+}
+.pro
+{
+    text-decoration: underline;
+}
+.top-cloud
+{
+    position:absolute;
+    right:350px;
+    top:50px;
+
+}
+.bottom-cloud
+{
+    position: absolute;
+    left:250px;
+    bottom:300px;
+    
+}
+.intro
+{
+    width:30%;
+    margin:auto;
+    font-family:sans-serif;
+    text-align: left;
+    line-height: 1.5;
+}
+a
+{
+    color:#11999E;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif;
+    margin:10px 20px;
+}
+#heading2
+{
+    font-weight: normal;
+}
+div
+{
+    display:block;
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    padding:50px 0 20px;
+}
+a:hover
+{
+    color:#EAF6F6;
+    cursor: pointer;
+}
+.copyright
+{
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.skill-row
+{
+    width:50%;
+    margin:100px auto ;
+    text-align:left;
+    line-height: 2;
+    
+}
+.code-img
+{
+    width:35%;
+    float:left;
+    margin-right: 50px;
+}
+.chole
+{
+    width:35% ;
+    float:right;
+    border-radius:100% ;
+    margin-left: 50px;
+}
+.college
+{
+    width:100%;
+}
+hr
+{
+    height: 2;
+    width:20%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    width:5%;
+    margin:100px auto 100px;
+    border-color:#EAF6f6 ;
+}
+.btn
+{
+    background: #192525;
+    border-radius:8px ;
+    color:#ffffff;
+    background-image:linear-gradient(to bottom,#11cdd4,#11999e) ;
+    font-family: 'Montserrat', sans-serif;
+    padding:10px 20px;
+    font-size: 20px;
+    margin: 100px auto 100px;
+
+}
+.best
+{
+    margin: 40px auto 60px;
+    width:40%;
+    line-height: 2;
+}
+.btn:hover
+{
+    background: #B5FFD9;
+}
